@@ -4,7 +4,7 @@
     <br> `Python3.9`
     <br>`Ubuntu 20.04
 
-### FIRT CONFIGURATION
+### FIRST CONFIGURATION
     <br> run python -r requirements.txt
 
 ### How to Manage ORM DB 
